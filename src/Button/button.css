@@ -1,0 +1,12 @@
+.button {
+  align-items: center;
+  background-color: lightgray;
+  border-radius: 100%;
+  padding: 10px;
+  border: none;
+  color: black;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  font-weight: 700;
+}

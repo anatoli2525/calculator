@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 220px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.redBtn {
+    background-color: red;
+}
